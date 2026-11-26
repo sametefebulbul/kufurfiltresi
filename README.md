@@ -83,6 +83,7 @@ python3 python/kufur_filtresi.py --tum "Öcalan"     # dört kategori birden
 
 ```
 python3 araclar/firestore_kurali.py kufur nefret siyasi sistem
+python3 araclar/firestore_kurali.py kufur nefret siyasi sistem --ekstra oyunumunadi   # projeye özgü ek sözcükler
 ```
 
 Çıktıyı `match /databases/{database}/documents { ... }` bloğunun içine yapıştır, sonra kuralda kullan:
