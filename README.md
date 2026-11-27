@@ -8,7 +8,7 @@ Kullanıcı adları ve kısa metinler için Türkçe küfür filtresi. Tek bir k
 | Python | `python/kufur_filtresi.py` | Modül ya da komut satırı. |
 | Firestore kuralı | `araclar/firestore_kurali.py` | Aynı denetimi sunucuda yapar: eski uygulama sürümleri ve elle gönderilen istekler de engellenir. |
 
-Üçü de aynı örneklerle denenir: 885 örnek, 780 Türkçe kişi adında sıfır yanlış alarm.
+Üçü de aynı örneklerle denenir: 917 örnek, 780 Türkçe kişi adında sıfır yanlış alarm.
 
 Filtre gerçek bir oyunun (Wordly) takma ad alanından çıktı. Canlıda denenip atlatılan biçimler ("Yarağım 2 Metre", "Pıttık Avcısı") listeye ve testlere eklendi.
 
