@@ -136,7 +136,6 @@
         "cumshot",
         "handjob",
         "rimjob",
-        "rimming",
         "hentai",
         "killyourself",
         "pedophile",
@@ -164,8 +163,6 @@
         "poontang",
         "schlong",
         "shemale",
-        "sodomi",
-        "sodomy",
         "splooge",
         "strapon",
         "threesome",
@@ -224,7 +221,6 @@
         "wank",
         "dildo",
         "phuck",
-        "phuk",
         "fvck",
         "prick",
         "skank",
@@ -245,7 +241,10 @@
         "malmisin",
         "ebleh",
         "geber",
-        "amyala"
+        "amyala",
+        "sodomi",
+        "sodomy",
+        "rimming"
       ],
       "sozcuk": [
         "sik",
@@ -418,7 +417,8 @@
         "titty",
         "boobs",
         "boner",
-        "cumming"
+        "cumming",
+        "phuk"
       ]
     },
     "nefret": {
@@ -428,7 +428,6 @@
         "nigger",
         "nigga",
         "faggot",
-        "retard",
         "tranny",
         "raghead",
         "towelhead",
@@ -448,7 +447,10 @@
         "fag",
         "fags",
         "paki",
-        "gook"
+        "gook",
+        "retard",
+        "retards",
+        "retarded"
       ]
     },
     "siyasi": {
@@ -532,7 +534,11 @@
       "Gotveren",
       "Genelev Kralı",
       "Killyourself",
-      "Dallama"
+      "Dallama",
+      "Phuk",
+      "Sodomist",
+      "Rimming",
+      "Retarded"
     ],
     "serbest": [
       "Işık",
@@ -592,7 +598,11 @@
       "Âmin",
       "Draping",
       "İşittirmek",
-      "Bekârhane"
+      "Bekârhane",
+      "Phuket",
+      "İsodomik duvar",
+      "Trimming",
+      "Retardant"
     ],
     "yasak_tum_kategoriler": [
       "Apo",
